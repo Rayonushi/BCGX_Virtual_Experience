@@ -1,7 +1,7 @@
 # BCGX_Virtual_Experience
-https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fbcg-creates-bcg-x-as-new-hybrid-of-consulting-and-tech-build--design-capabilities-301690914.html&psig=AOvVaw03tv0t0W1FLy1DzwEwJNVu&ust=1701341790482000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJiO3ZqG6YIDFQAAAAAdAAAAABAE
+![image](https://github.com/Rayonushi/BCGX_Virtual_Experience/assets/91659975/7d53cd5a-074f-4749-9a98-b3906129af89)
 
- In this job simulation, one can gain enviable insight into what it’s like to solve meaningful challenges with our diverse and forward-thinking team at BCGX. The program shows you what kind of problems are solved at BCG X and will attempt to simulate the challenges you will be facing – new terminology, form an integral part of our day-to-day work.
+In this job simulation, one can gain enviable insight into what it’s like to solve meaningful challenges with our diverse and forward-thinking team at BCGX. The program shows you what kind of problems are solved at BCG X and will attempt to simulate the challenges you will be facing – new terminology, form an integral part of our day-to-day work.
 BCGX is transforming the businesses of today through data science and analytics initiatives. Our goal is to help companies generate competitive advantage through these insights. 
 
 Data Science is a large market of opportunity and expertise within BCG and when tackling a business problem there are typically 5 high level steps that we follow:
